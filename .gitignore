@@ -1,2 +1,8 @@
 venv/
 .idea/
+env/
+data/
+__pycache__/
+dwh.cfg
+__pycache__/
+log_json_path.json
